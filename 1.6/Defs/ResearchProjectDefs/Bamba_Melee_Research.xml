@@ -52,35 +52,7 @@
     <researchViewY>7.00</researchViewY>
   </ResearchProjectDef>
 
-  <ResearchProjectDef MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
-    <defName>Bamba_Melee_Research_Solar</defName>
-    <label>solar tier melee weapons</label>
-    <description>Integrate Beyond Our Reach solar-tier materials and fabrication methods into your melee arsenal.</description>
-    <baseCost>6000</baseCost>
-    <techLevel>Ultra</techLevel>
-    <tab>ABT_Research_Tab</tab>
-    <prerequisites>
-      <li>Bamba_Melee_Research_Ultra</li>
-      <li>BOR_Research_Weapons_I</li>
-    </prerequisites>
-    <researchViewX>5.50</researchViewX>
-    <researchViewY>7.00</researchViewY>
-  </ResearchProjectDef>
 
-  <ResearchProjectDef MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
-    <defName>Bamba_Melee_Research_Quasar</defName>
-    <label>kwazaari tier melee weapons</label>
-    <description>Apply quasar-tier weapon engineering and kwazaari universal part integration.</description>
-    <baseCost>8000</baseCost>
-    <techLevel>Ultra</techLevel>
-    <tab>ABT_Research_Tab</tab>
-    <prerequisites>
-      <li>Bamba_Melee_Research_Solar</li>
-      <li>BOR_Research_Weapons_II</li>
-    </prerequisites>
-    <researchViewX>7.50</researchViewX>
-    <researchViewY>7.00</researchViewY>
-  </ResearchProjectDef>
 
 
 </Defs>

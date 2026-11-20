@@ -253,7 +253,7 @@
 		</tools>
 	</ThingDef>
 
-	<ThingDef ParentName="Bamba_BaseMeleeWeapon_Blunt_NoRecipe">
+	<ThingDef ParentName="Bamba_BOR_BaseMeleeWeapon_Blunt_NoRecipe" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 		<defName>Bamba_Melee_Solar_Polehammer</defName>
 		<label>solar polehammer</label>
 		<description>A very ornate polehammer combining hammer and polearm into a single decorative and devastating weapon. Built from sunsteel with sunweave reinforcement, its ornate geometry conceals an effectiveness far beyond normal tech levels.</description>
@@ -620,7 +620,7 @@
 		</tools>
 	</ThingDef>
 
-	<ThingDef ParentName="Bamba_BaseMeleeWeapon_Blunt_NoRecipe">
+	<ThingDef ParentName="Bamba_BOR_BaseMeleeWeapon_Blunt_NoRecipe" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 		<defName>Bamba_Melee_Quasar_Polehammer</defName>
 		<label>kwazaari polehammer</label>
 		<description>A combination of two ancient designs: a hammer and a long stick, perfected through kwazaari engineering. This utilitarian polehammer uses kwazaari alloy construction for overwhelming efficiency, though offering no aesthetic joy.</description>
@@ -982,7 +982,7 @@
 		</tools>
 	</ThingDef>
 
-	<ThingDef ParentName="Bamba_BaseMeleeWeapon_Blunt_NoRecipe">
+	<ThingDef ParentName="Bamba_BOR_BaseMeleeWeapon_Blunt_NoRecipe" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 		<defName>Bamba_Melee_Tenebral_Polehammer</defName>
 		<label>tenebral polehammer</label>
 		<description>A combination of two ancient designs: a hammer and a long stick, now assembled from tenebrite crystals into vague shapes. Its crystalline impact delivery transmits crushing force with unnatural efficiency.</description>

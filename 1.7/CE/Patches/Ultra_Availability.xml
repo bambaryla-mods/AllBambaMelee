@@ -701,12 +701,6 @@
 					</value>
 				</li>
 				<li Class="PatchOperationReplace">
-					<xpath>Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Solar"]/prerequisites/li[.="Bamba_Melee_Research_Ultra"]</xpath>
-					<value>
-						<li>Bamba_Melee_Research_Spacer</li>
-					</value>
-				</li>
-				<li Class="PatchOperationReplace">
 					<xpath>Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Ultra"]/baseCost</xpath>
 					<value>
 						<baseCost>50000</baseCost>

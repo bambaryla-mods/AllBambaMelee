@@ -888,7 +888,7 @@
 				</li>
 
 				<!-- Solar toolsets -->
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Knife"]/tools</xpath>
 					<value>
 						<tools>
@@ -929,7 +929,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Gladius"]/tools</xpath>
 					<value>
 						<tools>
@@ -970,7 +970,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Longsword"]/tools</xpath>
 					<value>
 						<tools>
@@ -1010,7 +1010,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Hammer"]/tools</xpath>
 					<value>
 						<tools>
@@ -1039,7 +1039,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Polehammer"]/tools</xpath>
 					<value>
 						<tools>
@@ -1068,7 +1068,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Mace"]/tools</xpath>
 					<value>
 						<tools>
@@ -1103,7 +1103,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Baton"]/tools</xpath>
 					<value>
 						<tools>
@@ -1138,7 +1138,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Solar_Spear"]/tools</xpath>
 					<value>
 						<tools>
@@ -1180,7 +1180,7 @@
 				</li>
 
 				<!-- kwazaari toolsets -->
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Knife"]/tools</xpath>
 					<value>
 						<tools>
@@ -1221,7 +1221,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Gladius"]/tools</xpath>
 					<value>
 						<tools>
@@ -1262,7 +1262,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Longsword"]/tools</xpath>
 					<value>
 						<tools>
@@ -1302,7 +1302,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Hammer"]/tools</xpath>
 					<value>
 						<tools>
@@ -1331,7 +1331,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Polehammer"]/tools</xpath>
 					<value>
 						<tools>
@@ -1360,7 +1360,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Mace"]/tools</xpath>
 					<value>
 						<tools>
@@ -1395,7 +1395,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Baton"]/tools</xpath>
 					<value>
 						<tools>
@@ -1430,7 +1430,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Quasar_Spear"]/tools</xpath>
 					<value>
 						<tools>
@@ -1472,7 +1472,7 @@
 				</li>
 
 				<!-- Tenebral toolsets -->
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Knife"]/tools</xpath>
 					<value>
 						<tools>
@@ -1513,7 +1513,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Gladius"]/tools</xpath>
 					<value>
 						<tools>
@@ -1554,7 +1554,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Longsword"]/tools</xpath>
 					<value>
 						<tools>
@@ -1594,7 +1594,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Hammer"]/tools</xpath>
 					<value>
 						<tools>
@@ -1623,7 +1623,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Polehammer"]/tools</xpath>
 					<value>
 						<tools>
@@ -1652,7 +1652,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Mace"]/tools</xpath>
 					<value>
 						<tools>
@@ -1687,7 +1687,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Baton"]/tools</xpath>
 					<value>
 						<tools>
@@ -1722,7 +1722,7 @@
 					</value>
 				</li>
 
-				<li Class="PatchOperationReplace">
+				<li Class="PatchOperationReplace" MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor">
 					<xpath>Defs/ThingDef[defName="Bamba_Melee_Tenebral_Spear"]/tools</xpath>
 					<value>
 						<tools>
