@@ -1,6 +1,6 @@
 # Player site
 
-The site at https://databobek.github.io/AllBambaMelee/ shows players what the mod adds. It is not part of the mod. It uses the same generator and look as the [Beyond Our Reach site](https://databobek.github.io/RimworldBeyondOurReach/), trimmed down to melee weapons, shields and research.
+The site at https://bambaryla-mods.github.io/AllBambaMelee/ shows players what the mod adds. It is not part of the mod. It uses the same generator and look as the [Beyond Our Reach site](https://bambaryla-mods.github.io/RimworldBeyondOurReach/), trimmed down to melee weapons, shields and research.
 
 ## How it works
 

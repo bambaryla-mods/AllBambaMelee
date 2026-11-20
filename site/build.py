@@ -45,9 +45,9 @@ NAV = [
     ("credits", "Credits"),
 ]
 
-GITHUB = "https://github.com/databobek/AllBambaMelee"
-BOR_SITE = "https://databobek.github.io/RimworldBeyondOurReach/"
-SITE_URL = "https://databobek.github.io/AllBambaMelee/"  # for link previews
+GITHUB = "https://github.com/bambaryla-mods/AllBambaMelee"
+BOR_SITE = "https://bambaryla-mods.github.io/RimworldBeyondOurReach/"
+SITE_URL = "https://bambaryla-mods.github.io/AllBambaMelee/"  # for link previews
 SCREENSHOT_EXTS = (".png", ".jpg", ".jpeg", ".webp")
 FAVICON = "Textures/Bamba_Melee/Weapons/Gladius_Solar.png"
 

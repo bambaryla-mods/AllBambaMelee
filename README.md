@@ -1,6 +1,6 @@
 # Melee Weapons For All Post-Medieval Tech Levels
 
-### See everything the mod adds: https://databobek.github.io/AllBambaMelee/
+### See everything the mod adds: https://bambaryla-mods.github.io/AllBambaMelee/
 
 <p align="center"><img src="About/Preview.png" alt="Melee Weapons For All" width="640"></p>
 

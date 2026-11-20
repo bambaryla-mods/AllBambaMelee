@@ -15,4 +15,4 @@ The site uses the Audiowide font by Astigmatic, under the SIL Open Font License.
 
 ## Source and issues
 
-The mod's files and this site are on [GitHub](https://github.com/databobek/AllBambaMelee). Report a bug or a balance problem there, or on the [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3726524693).
+The mod's files and this site are on [GitHub](https://github.com/bambaryla-mods/AllBambaMelee). Report a bug or a balance problem there, or on the [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3726524693).
