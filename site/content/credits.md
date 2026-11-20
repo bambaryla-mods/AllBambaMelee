@@ -1,5 +1,6 @@
 ---
 summary: Who made the mod, and its license.
+card: Bamba_Melee/Weapons/maces/mace_ind, Bamba_Melee/Weapons/maces/mace_spc, Bamba_Melee/Weapons/maces/mace_ult
 ---
 ## Made by
 
