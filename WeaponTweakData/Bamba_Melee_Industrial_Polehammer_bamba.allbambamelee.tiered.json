@@ -1,0 +1,13 @@
+{
+  "TextureModID": "bamba.allbambamelee.tiered",
+  "ItemDefName": "Bamba_Melee_Industrial_Polehammer",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.2413793,
+  "Rotation": 45.0,
+  "ScaleX": 1.25,
+  "ScaleY": 1.25,
+  "BladeStart": 0.5919547,
+  "BladeEnd": 0.9310345,
+  "MeleeWeaponType": 1
+}

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- INDUSTRIAL TIER -->
+  <Bamba_Melee_Industrial_Knife.label>industrial knife</Bamba_Melee_Industrial_Knife.label>
+  <Bamba_Melee_Industrial_Knife.description>One of the oldest tools in human history - a blade with a handle. Useful for stabbing people and there's not a single job that doesn't benefit from a knife. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Knife.description>
+  <Bamba_Melee_Industrial_Gladius.label>industrial gladius</Bamba_Melee_Industrial_Gladius.label>
+  <Bamba_Melee_Industrial_Gladius.description>A short sword invented by the Romans. Its main use is to stab. And then twist. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Gladius.description>
+  <Bamba_Melee_Industrial_Longsword.label>industrial longsword</Bamba_Melee_Industrial_Longsword.label>
+  <Bamba_Melee_Industrial_Longsword.description>A two-handed, long-bladed weapon invented for one-to-one combat. Useful for slashing and stabbing. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Longsword.description>
+  <Bamba_Melee_Industrial_Hammer.label>industrial hammer</Bamba_Melee_Industrial_Hammer.label>
+  <Bamba_Melee_Industrial_Hammer.description>A nifty tool/weapon that can both be used to put nails in, and allows you to cosplay that your enemies are nails. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Hammer.description>
+  <Bamba_Melee_Industrial_Polehammer.label>industrial polehammer</Bamba_Melee_Industrial_Polehammer.label>
+  <Bamba_Melee_Industrial_Polehammer.description>A combination of two ancient designs: a hammer, and a long stick. It's used to bludgeon enemies' armor inwards, hurting them with blunt trauma and sharp edges of their own apparel. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Polehammer.description>
+  <Bamba_Melee_Industrial_Mace.label>industrial mace</Bamba_Melee_Industrial_Mace.label>
+  <Bamba_Melee_Industrial_Mace.description>A weapon designed for tackling mechanoids. Mounted electrical capacitors reload with the strikes and discharge EM Pulses to stun the attacked machine. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Mace.description>
+  <Bamba_Melee_Industrial_Baton.label>industrial baton</Bamba_Melee_Industrial_Baton.label>
+  <Bamba_Melee_Industrial_Baton.description>A less-than-lethal applicator of blunt trauma to foreheads. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Baton.description>
+  <Bamba_Melee_Industrial_Spear.label>industrial spear</Bamba_Melee_Industrial_Spear.label>
+  <Bamba_Melee_Industrial_Spear.description>Possibly the oldest and most prolific weapon design in history of mankind. A tipped blade on a long stick. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Spear.description>
+  <Bamba_Melee_Industrial_Shield.label>industrial shield</Bamba_Melee_Industrial_Shield.label>
+  <Bamba_Melee_Industrial_Shield.description>A piece of hard material that's meant to be put between you and your enemy. This one is made from industrial-grade steel and more sophisticated than the ones one could smith together from whatever material.</Bamba_Melee_Industrial_Shield.description>
+
+  <!-- SPACER TIER -->
+  <Bamba_Melee_Spacer_Knife.label>spacer knife</Bamba_Melee_Spacer_Knife.label>
+  <Bamba_Melee_Spacer_Knife.description>One of the oldest tools in human history - a blade with a handle. Useful for stabbing people and there's not a single job that doesn't benefit from a knife. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Knife.description>
+  <Bamba_Melee_Spacer_Gladius.label>spacer gladius</Bamba_Melee_Spacer_Gladius.label>
+  <Bamba_Melee_Spacer_Gladius.description>A short sword invented by the Romans. Its main use is to stab. And then twist. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Gladius.description>
+  <Bamba_Melee_Spacer_Longsword.label>spacer longsword</Bamba_Melee_Spacer_Longsword.label>
+  <Bamba_Melee_Spacer_Longsword.description>A two-handed, long-bladed weapon invented for one-to-one combat. Useful for slashing and stabbing. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Longsword.description>
+  <Bamba_Melee_Spacer_Axe.label>spacer axe</Bamba_Melee_Spacer_Axe.label>
+  <Bamba_Melee_Spacer_Axe.description>A handy tool/weapon that can cut down both trees and legs of the unfortunate bystanders. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Axe.description>
+  <Bamba_Melee_Spacer_Hammer.label>spacer hammer</Bamba_Melee_Spacer_Hammer.label>
+  <Bamba_Melee_Spacer_Hammer.description>A nifty tool/weapon that can both be used to put nails in, and allows you to cosplay that your enemies are nails. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Hammer.description>
+  <Bamba_Melee_Spacer_Polehammer.label>spacer polehammer</Bamba_Melee_Spacer_Polehammer.label>
+  <Bamba_Melee_Spacer_Polehammer.description>A combination of two ancient designs: a hammer, and a long stick. It's used to bludgeon enemies' armor inwards, hurting them with blunt trauma and sharp edges of their own apparel. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Polehammer.description>
+  <Bamba_Melee_Spacer_Mace.label>spacer mace</Bamba_Melee_Spacer_Mace.label>
+  <Bamba_Melee_Spacer_Mace.description>A weapon designed for tackling mechanoids. Mounted electrical capacitors reload with the strikes and discharge EM Pulses to stun the attacked machine. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Mace.description>
+  <Bamba_Melee_Spacer_Baton.label>spacer baton</Bamba_Melee_Spacer_Baton.label>
+  <Bamba_Melee_Spacer_Baton.description>A less-than-lethal applicator of blunt trauma to foreheads. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Baton.description>
+  <Bamba_Melee_Spacer_Spear.label>spacer spear</Bamba_Melee_Spacer_Spear.label>
+  <Bamba_Melee_Spacer_Spear.description>Possibly the oldest and most prolific weapon design in history of mankind. A tipped blade on a long stick. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Spear.description>
+  <Bamba_Melee_Spacer_Shield.label>spacer shield</Bamba_Melee_Spacer_Shield.label>
+  <Bamba_Melee_Spacer_Shield.description>A piece of hard material that's meant to be put between you and your enemy. Use of a mix of steel and plasteel gives this appliance a set of uniquely effective capabilities, with improved handling due to usage of synthread.</Bamba_Melee_Spacer_Shield.description>
+
+  <!-- ULTRA TIER -->
+  <Bamba_Melee_Ultra_Knife.label>ultra knife</Bamba_Melee_Ultra_Knife.label>
+  <Bamba_Melee_Ultra_Knife.description>One of the oldest tools in human history - a blade with a handle. Useful for stabbing people and there's not a single job that doesn't benefit from a knife. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Knife.description>
+  <Bamba_Melee_Ultra_Gladius.label>ultra gladius</Bamba_Melee_Ultra_Gladius.label>
+  <Bamba_Melee_Ultra_Gladius.description>A short sword invented by the Romans. Its main use is to stab. And then twist. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Gladius.description>
+  <Bamba_Melee_Ultra_Longsword.label>ultra longsword</Bamba_Melee_Ultra_Longsword.label>
+  <Bamba_Melee_Ultra_Longsword.description>A two-handed, long-bladed weapon invented for one-to-one combat. Useful for slashing and stabbing. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Longsword.description>
+  <Bamba_Melee_Ultra_Axe.label>ultra axe</Bamba_Melee_Ultra_Axe.label>
+  <Bamba_Melee_Ultra_Axe.description>A handy tool/weapon that can cut down both trees and legs of the unfortunate bystanders. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Axe.description>
+  <Bamba_Melee_Ultra_Hammer.label>ultra hammer</Bamba_Melee_Ultra_Hammer.label>
+  <Bamba_Melee_Ultra_Hammer.description>A nifty tool/weapon that can both be used to put nails in, and allows you to cosplay that your enemies are nails. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Hammer.description>
+  <Bamba_Melee_Ultra_Polehammer.label>ultra polehammer</Bamba_Melee_Ultra_Polehammer.label>
+  <Bamba_Melee_Ultra_Polehammer.description>A combination of two ancient designs: a hammer, and a long stick. It's used to bludgeon enemies' armor inwards, hurting them with blunt trauma and sharp edges of their own apparel. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Polehammer.description>
+  <Bamba_Melee_Ultra_Mace.label>ultra mace</Bamba_Melee_Ultra_Mace.label>
+  <Bamba_Melee_Ultra_Mace.description>A weapon designed for tackling mechanoids. Mounted electrical capacitors reload with the strikes and discharge EM Pulses to stun the attacked machine. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Mace.description>
+  <Bamba_Melee_Ultra_Baton.label>ultra baton</Bamba_Melee_Ultra_Baton.label>
+  <Bamba_Melee_Ultra_Baton.description>A less-than-lethal applicator of blunt trauma to foreheads. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Baton.description>
+  <Bamba_Melee_Ultra_Spear.label>ultra spear</Bamba_Melee_Ultra_Spear.label>
+  <Bamba_Melee_Ultra_Spear.description>Possibly the oldest and most prolific weapon design in history of mankind. A tipped blade on a long stick. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Spear.description>
+  <Bamba_Melee_Ultra_Shield.label>ultra shield</Bamba_Melee_Ultra_Shield.label>
+  <Bamba_Melee_Ultra_Shield.description>A piece of hard material that's meant to be put between you and your enemy. Full plasteel - hyperweave build guarantees highest-tier of effectiveness available to humans.</Bamba_Melee_Ultra_Shield.description>
+
+  <!-- SOLAR TIER -->
+  <Bamba_Melee_Solar_Knife.label>solar knife</Bamba_Melee_Solar_Knife.label>
+  <Bamba_Melee_Solar_Knife.description>One of the oldest tools in human history - a blade with a handle. Useful for stabbing people and there's not a single job that doesn't benefit from a knife. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Knife.description>
+  <Bamba_Melee_Solar_Gladius.label>solar gladius</Bamba_Melee_Solar_Gladius.label>
+  <Bamba_Melee_Solar_Gladius.description>A short sword invented by the Romans. Its main use is to stab. And then twist. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Gladius.description>
+  <Bamba_Melee_Solar_Longsword.label>solar longsword</Bamba_Melee_Solar_Longsword.label>
+  <Bamba_Melee_Solar_Longsword.description>A two-handed, long-bladed weapon invented for one-to-one combat. Useful for slashing and stabbing. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Longsword.description>
+  <Bamba_Melee_Solar_Hammer.label>solar hammer</Bamba_Melee_Solar_Hammer.label>
+  <Bamba_Melee_Solar_Hammer.description>A nifty tool/weapon that can both be used to put nails in, and allows you to cosplay that your enemies are nails. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Hammer.description>
+  <Bamba_Melee_Solar_Polehammer.label>solar polehammer</Bamba_Melee_Solar_Polehammer.label>
+  <Bamba_Melee_Solar_Polehammer.description>A combination of two ancient designs: a hammer, and a long stick. It's used to bludgeon enemies' armor inwards, hurting them with blunt trauma and sharp edges of their own apparel. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Polehammer.description>
+  <Bamba_Melee_Solar_Mace.label>solar mace</Bamba_Melee_Solar_Mace.label>
+  <Bamba_Melee_Solar_Mace.description>A weapon designed for tackling mechanoids. Mounted electrical capacitors reload with the strikes and discharge EM Pulses to stun the attacked machine. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Mace.description>
+  <Bamba_Melee_Solar_Baton.label>solar baton</Bamba_Melee_Solar_Baton.label>
+  <Bamba_Melee_Solar_Baton.description>A less-than-lethal applicator of blunt trauma to foreheads. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Baton.description>
+  <Bamba_Melee_Solar_Spear.label>solar spear</Bamba_Melee_Solar_Spear.label>
+  <Bamba_Melee_Solar_Spear.description>Possibly the oldest and most prolific weapon design in history of mankind. A tipped blade on a long stick. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Spear.description>
+  <Bamba_Melee_Solar_Shield.label>solar shield</Bamba_Melee_Solar_Shield.label>
+  <Bamba_Melee_Solar_Shield.description>A piece of hard material that's meant to be put between you and your enemy. Application of Sunweave to the handle and Sunsteel to the pain application device, puts this appliance beyond Ultratech territory. Solarite melee weapons are typically ornate.</Bamba_Melee_Solar_Shield.description>
+
+  <!-- kwazaari TIER -->
+  <Bamba_Melee_Quasar_Knife.label>kwazaari knife</Bamba_Melee_Quasar_Knife.label>
+  <Bamba_Melee_Quasar_Knife.description>One of the oldest tools in human history - a blade with a handle. Useful for stabbing people and there's not a single job that doesn't benefit from a knife. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Knife.description>
+  <Bamba_Melee_Quasar_Gladius.label>kwazaari gladius</Bamba_Melee_Quasar_Gladius.label>
+  <Bamba_Melee_Quasar_Gladius.description>A short sword invented by the Romans. Its main use is to stab. And then twist. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Gladius.description>
+  <Bamba_Melee_Quasar_Longsword.label>kwazaari longsword</Bamba_Melee_Quasar_Longsword.label>
+  <Bamba_Melee_Quasar_Longsword.description>A two-handed, long-bladed weapon invented for one-to-one combat. Useful for slashing and stabbing. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Longsword.description>
+  <Bamba_Melee_Quasar_Hammer.label>kwazaari hammer</Bamba_Melee_Quasar_Hammer.label>
+  <Bamba_Melee_Quasar_Hammer.description>A nifty tool/weapon that can both be used to put nails in, and allows you to cosplay that your enemies are nails. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Hammer.description>
+  <Bamba_Melee_Quasar_Polehammer.label>kwazaari polehammer</Bamba_Melee_Quasar_Polehammer.label>
+  <Bamba_Melee_Quasar_Polehammer.description>A combination of two ancient designs: a hammer, and a long stick. It's used to bludgeon enemies' armor inwards, hurting them with blunt trauma and sharp edges of their own apparel. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Polehammer.description>
+  <Bamba_Melee_Quasar_Mace.label>kwazaari mace</Bamba_Melee_Quasar_Mace.label>
+  <Bamba_Melee_Quasar_Mace.description>A weapon designed for tackling mechanoids. Mounted electrical capacitors reload with the strikes and discharge EM Pulses to stun the attacked machine. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Mace.description>
+  <Bamba_Melee_Quasar_Baton.label>kwazaari baton</Bamba_Melee_Quasar_Baton.label>
+  <Bamba_Melee_Quasar_Baton.description>A less-than-lethal applicator of blunt trauma to foreheads. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Baton.description>
+  <Bamba_Melee_Quasar_Spear.label>kwazaari spear</Bamba_Melee_Quasar_Spear.label>
+  <Bamba_Melee_Quasar_Spear.description>Possibly the oldest and most prolific weapon design in history of mankind. A tipped blade on a long stick. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Spear.description>
+  <Bamba_Melee_Quasar_Shield.label>kwazaari shield</Bamba_Melee_Quasar_Shield.label>
+  <Bamba_Melee_Quasar_Shield.description>A piece of hard material that's meant to be put between you and your enemy. Beyond Solarite tech comes the Kwazaari utilitarian design. While better, they do not bring joy.</Bamba_Melee_Quasar_Shield.description>
+
+  <!-- TENEBRAL TIER -->
+  <Bamba_Melee_Tenebral_Knife.label>tenebral knife</Bamba_Melee_Tenebral_Knife.label>
+  <Bamba_Melee_Tenebral_Knife.description>One of the oldest tools in human history - a blade with a handle. Useful for stabbing people and there's not a single job that doesn't benefit from a knife. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Knife.description>
+  <Bamba_Melee_Tenebral_Gladius.label>tenebral gladius</Bamba_Melee_Tenebral_Gladius.label>
+  <Bamba_Melee_Tenebral_Gladius.description>A short sword invented by the Romans. Its main use is to stab. And then twist. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Gladius.description>
+  <Bamba_Melee_Tenebral_Longsword.label>tenebral longsword</Bamba_Melee_Tenebral_Longsword.label>
+  <Bamba_Melee_Tenebral_Longsword.description>A two-handed, long-bladed weapon invented for one-to-one combat. Useful for slashing and stabbing. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Longsword.description>
+  <Bamba_Melee_Tenebral_Hammer.label>tenebral hammer</Bamba_Melee_Tenebral_Hammer.label>
+  <Bamba_Melee_Tenebral_Hammer.description>A nifty tool/weapon that can both be used to put nails in, and allows you to cosplay that your enemies are nails. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Hammer.description>
+  <Bamba_Melee_Tenebral_Polehammer.label>tenebral polehammer</Bamba_Melee_Tenebral_Polehammer.label>
+  <Bamba_Melee_Tenebral_Polehammer.description>A combination of two ancient designs: a hammer, and a long stick. It's used to bludgeon enemies' armor inwards, hurting them with blunt trauma and sharp edges of their own apparel. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Polehammer.description>
+  <Bamba_Melee_Tenebral_Mace.label>tenebral mace</Bamba_Melee_Tenebral_Mace.label>
+  <Bamba_Melee_Tenebral_Mace.description>A weapon designed for tackling mechanoids. Mounted electrical capacitors reload with the strikes and discharge EM Pulses to stun the attacked machine. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Mace.description>
+  <Bamba_Melee_Tenebral_Baton.label>tenebral baton</Bamba_Melee_Tenebral_Baton.label>
+  <Bamba_Melee_Tenebral_Baton.description>A less-than-lethal applicator of blunt trauma to foreheads. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Baton.description>
+  <Bamba_Melee_Tenebral_Spear.label>tenebral spear</Bamba_Melee_Tenebral_Spear.label>
+  <Bamba_Melee_Tenebral_Spear.description>Possibly the oldest and most prolific weapon design in history of mankind. A tipped blade on a long stick. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Spear.description>
+  <Bamba_Melee_Tenebral_Shield.label>tenebral shield</Bamba_Melee_Tenebral_Shield.label>
+  <Bamba_Melee_Tenebral_Shield.description>A piece of hard material that's meant to be put between you and your enemy. It's shaped from a tenebrite crystal into a shape vaguely resembling the function.</Bamba_Melee_Tenebral_Shield.description>
+</LanguageData>

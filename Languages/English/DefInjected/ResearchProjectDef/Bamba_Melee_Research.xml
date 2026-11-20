@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bamba_Melee_Research_Industrial.label>industrial tier melee weapons</Bamba_Melee_Research_Industrial.label>
+  <Bamba_Melee_Research_Industrial.description>Industrialized production patterns for gladius, longsword, hammer, and spear weapon families.</Bamba_Melee_Research_Industrial.description>
+
+  <Bamba_Melee_Research_Spacer.label>spacer tier melee weapons</Bamba_Melee_Research_Spacer.label>
+  <Bamba_Melee_Research_Spacer.description>Spacer-tier metallurgy and component integration for advanced melee weapon lines.</Bamba_Melee_Research_Spacer.description>
+
+  <Bamba_Melee_Research_Ultra.label>ultra tier melee weapons</Bamba_Melee_Research_Ultra.label>
+  <Bamba_Melee_Research_Ultra.description>Ultra-tech optimization of melee weapon architecture using advanced components and high-end textiles.</Bamba_Melee_Research_Ultra.description>
+
+  <Bamba_Melee_Research_Solar.label>solar tier melee weapons</Bamba_Melee_Research_Solar.label>
+  <Bamba_Melee_Research_Solar.description>Integrate Beyond Our Reach solar-tier materials and fabrication methods into your melee arsenal.</Bamba_Melee_Research_Solar.description>
+
+  <Bamba_Melee_Research_Quasar.label>kwazaari tier melee weapons</Bamba_Melee_Research_Quasar.label>
+  <Bamba_Melee_Research_Quasar.description>Apply quasar-tier weapon engineering and kwazaari universal part integration.</Bamba_Melee_Research_Quasar.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+{
+  "TextureModID": "bamba.allbambamelee.tiered",
+  "ItemDefName": "Bamba_Melee_Quasar_Gladius",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.287356675,
+  "HandsMode": 1,
+  "BladeStart": 0.106322192,
+  "BladeEnd": 0.6867823,
+  "MeleeWeaponType": 6
+}

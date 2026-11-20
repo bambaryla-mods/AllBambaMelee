@@ -1,0 +1,13 @@
+{
+  "TextureModID": "bamba.allbambamelee.tiered",
+  "ItemDefName": "Bamba_Melee_Spacer_Polehammer",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.258620679,
+  "Rotation": 45.0,
+  "ScaleX": 1.25,
+  "ScaleY": 1.25,
+  "BladeStart": 0.701149762,
+  "BladeEnd": 0.9367823,
+  "MeleeWeaponType": 1
+}

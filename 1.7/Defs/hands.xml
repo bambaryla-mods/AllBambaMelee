@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WHands.ClutterHandsTDef MayRequire="mlie.showmeyourhands">
+     <defName>ClutterHandsSettings_MeleeWeaponsForAllTechLevels</defName>
+      <label>Weapon hand settings</label>
+      <thingClass>Thing</thingClass>
+      <WeaponCompLoader>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.241)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Spear</li> <!-- solar spear -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.373, -0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Longsword</li> <!-- solar longsword -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.266, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Gladius</li> <!-- solar gladius -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Hammer</li> <!-- solar hammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.376, 0.100, 0.000)</MainHand>
+              <SecHand>(-0.255, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Longsword</li> <!-- spacer longsword -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.217)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Spear</li> <!-- spacer spear -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.293, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Gladius</li> <!-- spacer gladius -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.028)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Axe</li> <!-- spacer axe -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.270, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Gladius</li> <!-- tenebral gladius -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.201, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Hammer</li> <!-- tenebral hammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.299, 0.100, 0.000)</MainHand>
+              <SecHand>(-0.385, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Longsword</li> <!-- tenebral longsword -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.244)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Spear</li> <!-- tenebral spear -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.311, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Gladius</li> <!-- kwazaari gladius -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Hammer</li> <!-- kwazaari hammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.330, 0.100, 0.000)</MainHand>
+              <SecHand>(-0.284, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Longsword</li> <!-- kwazaari longsword -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.266, 0.100, -0.235)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Spear</li> <!-- kwazaari spear -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.385, 0.100, 0.000)</MainHand>
+              <SecHand>(-0.260, -0.100, -0.010)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Longsword</li> <!-- industrial longsword -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.205, 0.100, -0.185)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Spear</li> <!-- industrial spear -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.240, 0.100, 0.060)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Axe</li> <!-- ultra axe -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.300, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Gladius</li> <!-- ultra gladius -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.395, 0.100, 0.000)</MainHand>
+              <SecHand>(-0.280, -0.100, -0.010)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Longsword</li> <!-- ultra longsword -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.210, 0.100, -0.195)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Spear</li> <!-- ultra spear -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Gladius</li> <!-- industrial gladius -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.175, 0.100, 0.060)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Hammer</li> <!-- industrial hammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Knife</li> <!-- kwazaari knife -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Mace</li> <!-- kwazaari mace -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.244)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Polehammer</li> <!-- kwazaari polehammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Baton</li> <!-- industrial baton -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.197, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Knife</li> <!-- industrial knife -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Mace</li> <!-- industrial mace -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.252)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Industrial_Polehammer</li> <!-- industrial polehammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Quasar_Baton</li> <!-- kwazaari baton -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Baton</li> <!-- solar baton -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.206, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Knife</li> <!-- solar knife -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Mace</li> <!-- solar mace -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.316, 0.100, -0.311)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Solar_Polehammer</li> <!-- solar polehammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Baton</li> <!-- spacer baton -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.197, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Knife</li> <!-- spacer knife -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Mace</li> <!-- spacer mace -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.243)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Spacer_Polehammer</li> <!-- spacer polehammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Baton</li> <!-- tenebral baton -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.211, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Knife</li> <!-- tenebral knife -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Mace</li> <!-- tenebral mace -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.206)</MainHand>
+              <SecHand>(-0.027, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Tenebral_Polehammer</li> <!-- tenebral polehammer -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.316, 0.100, 0.069)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Baton</li> <!-- ultra baton -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.215, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Knife</li> <!-- ultra knife -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, 0.000)</MainHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Mace</li> <!-- ultra mace -->
+              </ThingTargets>
+          </li>
+          <li>
+              <MainHand>(-0.250, 0.100, -0.252)</MainHand>
+              <SecHand>(0.000, -0.100, 0.000)</SecHand>
+              <ThingTargets>
+                 <li>Bamba_Melee_Ultra_Polehammer</li> <!-- ultra polehammer -->
+              </ThingTargets>
+          </li>
+      </WeaponCompLoader>
+  </WHands.ClutterHandsTDef>
+</Defs>

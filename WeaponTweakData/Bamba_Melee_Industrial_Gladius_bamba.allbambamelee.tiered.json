@@ -1,0 +1,11 @@
+{
+  "TextureModID": "bamba.allbambamelee.tiered",
+  "ItemDefName": "Bamba_Melee_Industrial_Gladius",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.247127146,
+  "HandsMode": 1,
+  "BladeStart": 0.149425641,
+  "BladeEnd": 0.6551724,
+  "MeleeWeaponType": 6
+}

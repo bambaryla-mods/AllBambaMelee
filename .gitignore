@@ -1,0 +1,46 @@
+# AI assistants
+.claude/
+CLAUDE.md
+AGENTS.md
+.cursor/
+.cursorrules
+.aider*
+.codex/
+.gemini/
+.copilot/
+.github/copilot-instructions.md
+openspec/
+docs/superpowers/
+
+# Editors and IDEs
+.vscode/
+*.code-workspace
+.history/
+.vs/
+.idea/
+*.sln.iml
+*.suo
+*.user
+*.swp
+*~
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Player site build output (site/build.py)
+site/_build/
+_site/
+
+# Archives and logs
+*.zip
+*.7z
+*.rar
+*.log

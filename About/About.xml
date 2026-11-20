@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Melee Weapons For All Post-Medieval Tech Levels</name>
+  <author>Bamba + Haderoth + Samael Gray</author>
+  <packageId>bamba.allbambamelee.tiered</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Adds tiered versions of Gladius, Longsword, Hammer/Axe and Spear and Polehammers and Knives and Shields with progression research. Includes optional Beyond Our Reach tiers and Combat Extended compatibility patching.</description>
+  <loadAfter>
+    <li>bambaryla.bor.redux</li>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
+</ModMetaData>

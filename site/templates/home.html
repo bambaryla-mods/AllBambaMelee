@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block description %}{{ meta.get("summary") or "A RimWorld mod that adds tiered melee weapons and shields." }}{% endblock %}
+{% block body %}
+<section class="hero">
+  <div class="hero-art" style="background-image:url(assets/preview.png)" role="img" aria-label="The mod's weapons, tier by tier"></div>
+  <div class="hero-inner">
+    <h1>{{ mod.name }}</h1>
+    <p class="tagline">{{ meta.get("tagline", "") }}</p>
+    <p class="cta">
+      <a class="btn primary" href="{{ workshop }}">Steam Workshop</a>
+      <a class="btn" href="{{ github }}">GitHub</a>
+    </p>
+  </div>
+</section>
+<main id="main" class="home">
+  <div class="home-intro">{{ content }}</div>
+  <h2 class="cards-head">What's in the mod</h2>
+  <div class="cards">
+    {% for c in cards %}
+    <a class="card" href="{{ c.slug }}.html">
+      {% if c.icons %}
+      <div class="thumb thumb-icons">{% for s in c.icons %}<img src="{{ s }}" alt="" loading="lazy">{% endfor %}</div>
+      {% else %}
+      <div class="thumb"></div>
+      {% endif %}
+      <h3>{{ c.title }}</h3>
+      <p>{{ c.summary }}</p>
+    </a>
+    {% endfor %}
+  </div>
+</main>
+{% endblock %}

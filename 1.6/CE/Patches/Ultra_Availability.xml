@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!-- Ultra melee weapons and shield. Only Empire pawns, high-tier traders and quest rewards provide them. With Beyond Our Reach they stay craftable as a parallel line to Solar: plasteel, very high research cost, no BOR research. Without it they cannot be crafted. -->
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/TraderKindDef[defName="Orbital_Exotic"]/stockGenerators</xpath>
+				<value>
+					<li Class="StockGenerator_Tag">
+						<tradeTag>Bamba_GlitterMelee</tradeTag>
+						<thingDefCountRange>1~2</thingDefCountRange>
+						<countRange>1~1</countRange>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/TraderKindDef[defName="Orbital_CombatSupplier"]/stockGenerators</xpath>
+				<value>
+					<li Class="StockGenerator_Tag">
+						<tradeTag>Bamba_GlitterMelee</tradeTag>
+						<thingDefCountRange>1~2</thingDefCountRange>
+						<countRange>1~1</countRange>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Knife"]/weaponTags</xpath>
+				<value>
+					<li>Bamba_GlitterMelee</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Knife"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Knife"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Gladius"]/weaponTags</xpath>
+				<value>
+					<li>Bamba_GlitterMelee</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Gladius"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Gladius"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Longsword"]</xpath>
+				<value>
+					<weaponTags>
+						<li>Bamba_GlitterMelee</li>
+					</weaponTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Longsword"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Longsword"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Axe"]/weaponTags</xpath>
+				<value>
+					<li>Bamba_GlitterMelee</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Axe"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Axe"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Polehammer"]</xpath>
+				<value>
+					<weaponTags>
+						<li>Bamba_GlitterMelee</li>
+					</weaponTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Polehammer"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Polehammer"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Mace"]/weaponTags</xpath>
+				<value>
+					<li>Bamba_GlitterMelee</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Mace"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Mace"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Baton"]/weaponTags</xpath>
+				<value>
+					<li>Bamba_GlitterMelee</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Baton"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Baton"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Spear"]/weaponTags</xpath>
+				<value>
+					<li>Bamba_GlitterMelee</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Spear"]</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Spear"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Shield"]/tradeTags</xpath>
+				<value>
+					<tradeTags Inherit="False">
+						<li>Bamba_GlitterMelee</li>
+					</tradeTags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Shield"]</xpath>
+				<value>
+					<thingSetMakerTags>
+						<li>RewardStandardQualitySuper</li>
+					</thingSetMakerTags>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Royalty</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/TraderKindDef[defName="Orbital_Empire"]/stockGenerators</xpath>
+					<value>
+						<li Class="StockGenerator_Tag">
+							<tradeTag>Bamba_GlitterMelee</tradeTag>
+							<thingDefCountRange>1~2</thingDefCountRange>
+							<countRange>1~1</countRange>
+						</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/TraderKindDef[defName="Base_Empire_Standard"]/stockGenerators</xpath>
+					<value>
+						<li Class="StockGenerator_Tag">
+							<tradeTag>Bamba_GlitterMelee</tradeTag>
+							<thingDefCountRange>1~2</thingDefCountRange>
+							<countRange>1~1</countRange>
+						</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/weaponTags</xpath>
+					<value>
+						<li>Bamba_GlitterMelee</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/weaponTags</xpath>
+					<value>
+						<li>Bamba_GlitterMelee</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/PawnKindDef[@Name="RoyalBase"]/weaponTags</xpath>
+					<value>
+						<li>Bamba_GlitterMelee</li>
+					</value>
+				</li>
+				<li Class="PatchOperationConditional">
+					<xpath>Defs/PawnKindDef[defName="ABT_Empire_GlitterGuardMelee"]</xpath>
+					<match Class="PatchOperationReplace">
+						<xpath>Defs/PawnKindDef[defName="ABT_Empire_GlitterGuardMelee"]/weaponTags</xpath>
+						<value>
+							<weaponTags Inherit="False">
+								<li>Bamba_GlitterMelee</li>
+							</weaponTags>
+						</value>
+					</match>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Beyond Our Reach</li>
+			<li>Beyond Our Reach :: Redux</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Knife"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>88</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>2</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>10</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Knife"]/workAmount</xpath>
+					<value>
+						<workAmount>22000</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Knife"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Knife"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>2850</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Gladius"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>122</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>2</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>12</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Gladius"]/workAmount</xpath>
+					<value>
+						<workAmount>44000</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Gladius"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Gladius"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>6800</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Longsword"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>228</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>3</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>18</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Longsword"]/workAmount</xpath>
+					<value>
+						<workAmount>60000</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Longsword"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Longsword"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>7450</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Axe"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>140</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>2</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>14</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Axe"]/workAmount</xpath>
+					<value>
+						<workAmount>28500</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Axe"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Axe"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>6700</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Polehammer"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>166</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>2</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>15</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Polehammer"]/workAmount</xpath>
+					<value>
+						<workAmount>31000</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Polehammer"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Polehammer"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>7200</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Mace"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>122</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>3</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>14</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Mace"]/workAmount</xpath>
+					<value>
+						<workAmount>29500</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Mace"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Mace"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>5400</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Baton"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>105</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>1</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>14</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Baton"]/workAmount</xpath>
+					<value>
+						<workAmount>28000</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Baton"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Baton"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>5600</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Spear"]/ingredients</xpath>
+					<value>
+						<ingredients>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Plasteel</li>
+									</thingDefs>
+								</filter>
+								<count>175</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>ComponentSpacer</li>
+									</thingDefs>
+								</filter>
+								<count>3</count>
+							</li>
+							<li>
+								<filter>
+									<thingDefs>
+										<li>Hyperweave</li>
+									</thingDefs>
+								</filter>
+								<count>16</count>
+							</li>
+						</ingredients>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Spear"]/workAmount</xpath>
+					<value>
+						<workAmount>52500</workAmount>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Spear"]/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Spear"]/statBases/MarketValue</xpath>
+					<value>
+						<MarketValue>7100</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Shield"]/costList</xpath>
+					<value>
+						<costList>
+							<Plasteel>210</Plasteel>
+							<ComponentSpacer>2</ComponentSpacer>
+							<Hyperweave>15</Hyperweave>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Shield"]/statBases/WorkToMake</xpath>
+					<value>
+						<WorkToMake>56000</WorkToMake>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Shield"]/recipeMaker/skillRequirements/Crafting</xpath>
+					<value>
+						<Crafting>16</Crafting>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Solar"]/prerequisites/li[.="Bamba_Melee_Research_Ultra"]</xpath>
+					<value>
+						<li>Bamba_Melee_Research_Spacer</li>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Ultra"]/baseCost</xpath>
+					<value>
+						<baseCost>50000</baseCost>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Ultra"]</xpath>
+					<value>
+						<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+						<requiredResearchFacilities>
+							<li>MultiAnalyzer</li>
+						</requiredResearchFacilities>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Ultra"]/prerequisites</xpath>
+					<value>
+						<li>MultiAnalyzer</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+		<nomatch Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Knife"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Gladius"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Longsword"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Axe"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Polehammer"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Mace"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Baton"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/RecipeDef[defName="Make_Bamba_Melee_Ultra_Spear"]</xpath>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Shield"]/recipeMaker</xpath>
+					<value>
+						<recipeMaker Inherit="False" />
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName="Bamba_Melee_Ultra_Shield"]/statBases</xpath>
+					<value>
+						<MarketValue>1700</MarketValue>
+					</value>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Ultra"]</xpath>
+				</li>
+			</operations>
+		</nomatch>
+	</Operation>
+</Patch>

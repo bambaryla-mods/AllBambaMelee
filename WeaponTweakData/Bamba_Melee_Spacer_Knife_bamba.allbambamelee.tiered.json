@@ -1,0 +1,13 @@
+{
+  "TextureModID": "bamba.allbambamelee.tiered",
+  "ItemDefName": "Bamba_Melee_Spacer_Knife",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.149425641,
+  "ScaleX": 0.75,
+  "ScaleY": 0.75,
+  "HandsMode": 1,
+  "BladeStart": 0.0977015,
+  "BladeEnd": 0.402299553,
+  "MeleeWeaponType": 24
+}

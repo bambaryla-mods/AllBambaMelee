@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- With Beyond Our Reach, Ultra melee comes after Solar melee (see BOR_Research.xml). -->
+<Patch>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Beyond Our Reach</li>
+            <li>Beyond Our Reach :: Redux</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Ultra"]/prerequisites</xpath>
+                    <value><li>Bamba_Melee_Research_Solar</li></value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ResearchProjectDef[defName="Bamba_Melee_Research_Ultra"]/researchViewX</xpath>
+                    <value><researchViewX>5.50</researchViewX></value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+</Patch>

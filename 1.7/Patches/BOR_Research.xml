@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Beyond Our Reach</li>
+            <li>Beyond Our Reach :: Redux</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs</xpath>
+            <value>
+                <ResearchProjectDef MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor" ParentName="BOR_Research_Base_I">
+                    <defName>Bamba_Melee_Research_Solar</defName>
+                    <label>solar tier melee weapons</label>
+                    <description>Integrate Beyond Our Reach solar-tier materials and fabrication methods into your melee arsenal.</description>
+                    <baseCost>6000</baseCost>
+                    <prerequisites>
+                        <li>Bamba_Melee_Research_Spacer</li>
+                        <li>BOR_Research_Weapons_I</li>
+                    </prerequisites>
+                    <researchViewX>4.00</researchViewX>
+                    <techLevel>Ultra</techLevel>
+                    <researchViewY>7.00</researchViewY>
+                </ResearchProjectDef>
+                <ResearchProjectDef MayRequireAnyOf="bambaryla.bor.redux,bambaryla.bor" ParentName="BOR_Research_Base_II">
+                    <defName>Bamba_Melee_Research_Quasar</defName>
+                    <label>kwazaari tier melee weapons</label>
+                    <description>Apply quasar-tier weapon engineering and kwazaari universal part integration.</description>
+                    <baseCost>8000</baseCost>
+                    <prerequisites>
+                        <li>Bamba_Melee_Research_Ultra</li>
+                        <li>BOR_Research_Weapons_II</li>
+                    </prerequisites>
+                    <researchViewX>7.50</researchViewX>
+                    <researchViewY>7.00</researchViewY>
+                    <techLevel>Ultra</techLevel>
+                </ResearchProjectDef>
+            </value>
+        </match>
+    </Operation>
+</Patch>

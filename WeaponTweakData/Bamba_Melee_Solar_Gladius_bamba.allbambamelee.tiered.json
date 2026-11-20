@@ -1,0 +1,11 @@
+{
+  "TextureModID": "bamba.allbambamelee.tiered",
+  "ItemDefName": "Bamba_Melee_Solar_Gladius",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.252873927,
+  "HandsMode": 1,
+  "BladeStart": 0.120689653,
+  "BladeEnd": 0.6494256,
+  "MeleeWeaponType": 6
+}

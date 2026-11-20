@@ -1,0 +1,14 @@
+{
+  "TextureModID": "bamba.allbambamelee.tiered",
+  "ItemDefName": "Bamba_Melee_Ultra_Knife",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.201149777,
+  "OffY": 0.00601974735,
+  "ScaleX": 0.75,
+  "ScaleY": 0.75,
+  "HandsMode": 1,
+  "BladeStart": 0.120689653,
+  "BladeEnd": 0.4367823,
+  "MeleeWeaponType": 48
+}

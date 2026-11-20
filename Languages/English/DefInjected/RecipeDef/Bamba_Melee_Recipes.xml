@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_Bamba_Melee_Industrial_Knife.label>make industrial knife</Make_Bamba_Melee_Industrial_Knife.label>
+  <Make_Bamba_Melee_Industrial_Knife.jobString>Making an industrial knife.</Make_Bamba_Melee_Industrial_Knife.jobString>
+  <Make_Bamba_Melee_Industrial_Gladius.label>make industrial gladius</Make_Bamba_Melee_Industrial_Gladius.label>
+  <Make_Bamba_Melee_Industrial_Gladius.jobString>Making an industrial gladius.</Make_Bamba_Melee_Industrial_Gladius.jobString>
+  <Make_Bamba_Melee_Industrial_Longsword.label>make industrial longsword</Make_Bamba_Melee_Industrial_Longsword.label>
+  <Make_Bamba_Melee_Industrial_Longsword.jobString>Making an industrial longsword.</Make_Bamba_Melee_Industrial_Longsword.jobString>
+  <Make_Bamba_Melee_Industrial_Hammer.label>make industrial hammer</Make_Bamba_Melee_Industrial_Hammer.label>
+  <Make_Bamba_Melee_Industrial_Hammer.jobString>Making an industrial hammer.</Make_Bamba_Melee_Industrial_Hammer.jobString>
+  <Make_Bamba_Melee_Industrial_Polehammer.label>make industrial polehammer</Make_Bamba_Melee_Industrial_Polehammer.label>
+  <Make_Bamba_Melee_Industrial_Polehammer.jobString>Making an industrial polehammer.</Make_Bamba_Melee_Industrial_Polehammer.jobString>
+  <Make_Bamba_Melee_Industrial_Mace.label>make industrial mace</Make_Bamba_Melee_Industrial_Mace.label>
+  <Make_Bamba_Melee_Industrial_Mace.jobString>Making an industrial mace.</Make_Bamba_Melee_Industrial_Mace.jobString>
+  <Make_Bamba_Melee_Industrial_Baton.label>make industrial baton</Make_Bamba_Melee_Industrial_Baton.label>
+  <Make_Bamba_Melee_Industrial_Baton.jobString>Making an industrial baton.</Make_Bamba_Melee_Industrial_Baton.jobString>
+  <Make_Bamba_Melee_Industrial_Spear.label>make industrial spear</Make_Bamba_Melee_Industrial_Spear.label>
+  <Make_Bamba_Melee_Industrial_Spear.jobString>Making an industrial spear.</Make_Bamba_Melee_Industrial_Spear.jobString>
+  <Make_Bamba_Melee_Industrial_Shield.label>make industrial shield</Make_Bamba_Melee_Industrial_Shield.label>
+  <Make_Bamba_Melee_Industrial_Shield.jobString>Making an industrial shield.</Make_Bamba_Melee_Industrial_Shield.jobString>
+
+  <Make_Bamba_Melee_Spacer_Knife.label>make spacer knife</Make_Bamba_Melee_Spacer_Knife.label>
+  <Make_Bamba_Melee_Spacer_Knife.jobString>Making a spacer knife.</Make_Bamba_Melee_Spacer_Knife.jobString>
+  <Make_Bamba_Melee_Spacer_Gladius.label>make spacer gladius</Make_Bamba_Melee_Spacer_Gladius.label>
+  <Make_Bamba_Melee_Spacer_Gladius.jobString>Making a spacer gladius.</Make_Bamba_Melee_Spacer_Gladius.jobString>
+  <Make_Bamba_Melee_Spacer_Longsword.label>make spacer longsword</Make_Bamba_Melee_Spacer_Longsword.label>
+  <Make_Bamba_Melee_Spacer_Longsword.jobString>Making a spacer longsword.</Make_Bamba_Melee_Spacer_Longsword.jobString>
+  <Make_Bamba_Melee_Spacer_Axe.label>make spacer axe</Make_Bamba_Melee_Spacer_Axe.label>
+  <Make_Bamba_Melee_Spacer_Axe.jobString>Making a spacer axe.</Make_Bamba_Melee_Spacer_Axe.jobString>
+  <Make_Bamba_Melee_Spacer_Spear.label>make spacer spear</Make_Bamba_Melee_Spacer_Spear.label>
+  <Make_Bamba_Melee_Spacer_Spear.jobString>Making a spacer spear.</Make_Bamba_Melee_Spacer_Spear.jobString>
+  <Make_Bamba_Melee_Spacer_Hammer.label>make spacer hammer</Make_Bamba_Melee_Spacer_Hammer.label>
+  <Make_Bamba_Melee_Spacer_Hammer.jobString>Making a spacer hammer.</Make_Bamba_Melee_Spacer_Hammer.jobString>
+  <Make_Bamba_Melee_Spacer_Polehammer.label>make spacer polehammer</Make_Bamba_Melee_Spacer_Polehammer.label>
+  <Make_Bamba_Melee_Spacer_Polehammer.jobString>Making a spacer polehammer.</Make_Bamba_Melee_Spacer_Polehammer.jobString>
+  <Make_Bamba_Melee_Spacer_Mace.label>make spacer mace</Make_Bamba_Melee_Spacer_Mace.label>
+  <Make_Bamba_Melee_Spacer_Mace.jobString>Making a spacer mace.</Make_Bamba_Melee_Spacer_Mace.jobString>
+  <Make_Bamba_Melee_Spacer_Baton.label>make spacer baton</Make_Bamba_Melee_Spacer_Baton.label>
+  <Make_Bamba_Melee_Spacer_Baton.jobString>Making a spacer baton.</Make_Bamba_Melee_Spacer_Baton.jobString>
+  <Make_Bamba_Melee_Spacer_Shield.label>make spacer shield</Make_Bamba_Melee_Spacer_Shield.label>
+  <Make_Bamba_Melee_Spacer_Shield.jobString>Making a spacer shield.</Make_Bamba_Melee_Spacer_Shield.jobString>
+
+  <Make_Bamba_Melee_Ultra_Knife.label>make ultra knife</Make_Bamba_Melee_Ultra_Knife.label>
+  <Make_Bamba_Melee_Ultra_Knife.jobString>Making an ultra knife.</Make_Bamba_Melee_Ultra_Knife.jobString>
+  <Make_Bamba_Melee_Ultra_Gladius.label>make ultra gladius</Make_Bamba_Melee_Ultra_Gladius.label>
+  <Make_Bamba_Melee_Ultra_Gladius.jobString>Making an ultra gladius.</Make_Bamba_Melee_Ultra_Gladius.jobString>
+  <Make_Bamba_Melee_Ultra_Longsword.label>make ultra longsword</Make_Bamba_Melee_Ultra_Longsword.label>
+  <Make_Bamba_Melee_Ultra_Longsword.jobString>Making an ultra longsword.</Make_Bamba_Melee_Ultra_Longsword.jobString>
+  <Make_Bamba_Melee_Ultra_Axe.label>make ultra axe</Make_Bamba_Melee_Ultra_Axe.label>
+  <Make_Bamba_Melee_Ultra_Axe.jobString>Making an ultra axe.</Make_Bamba_Melee_Ultra_Axe.jobString>
+  <Make_Bamba_Melee_Ultra_Spear.label>make ultra spear</Make_Bamba_Melee_Ultra_Spear.label>
+  <Make_Bamba_Melee_Ultra_Spear.jobString>Making an ultra spear.</Make_Bamba_Melee_Ultra_Spear.jobString>
+  <Make_Bamba_Melee_Ultra_Hammer.label>make ultra hammer</Make_Bamba_Melee_Ultra_Hammer.label>
+  <Make_Bamba_Melee_Ultra_Hammer.jobString>Making an ultra hammer.</Make_Bamba_Melee_Ultra_Hammer.jobString>
+  <Make_Bamba_Melee_Ultra_Polehammer.label>make ultra polehammer</Make_Bamba_Melee_Ultra_Polehammer.label>
+  <Make_Bamba_Melee_Ultra_Polehammer.jobString>Making an ultra polehammer.</Make_Bamba_Melee_Ultra_Polehammer.jobString>
+  <Make_Bamba_Melee_Ultra_Mace.label>make ultra mace</Make_Bamba_Melee_Ultra_Mace.label>
+  <Make_Bamba_Melee_Ultra_Mace.jobString>Making an ultra mace.</Make_Bamba_Melee_Ultra_Mace.jobString>
+  <Make_Bamba_Melee_Ultra_Baton.label>make ultra baton</Make_Bamba_Melee_Ultra_Baton.label>
+  <Make_Bamba_Melee_Ultra_Baton.jobString>Making an ultra baton.</Make_Bamba_Melee_Ultra_Baton.jobString>
+  <Make_Bamba_Melee_Ultra_Shield.label>make ultra shield</Make_Bamba_Melee_Ultra_Shield.label>
+  <Make_Bamba_Melee_Ultra_Shield.jobString>Making an ultra shield.</Make_Bamba_Melee_Ultra_Shield.jobString>
+
+  <Make_Bamba_Melee_Solar_Knife.label>make solar knife</Make_Bamba_Melee_Solar_Knife.label>
+  <Make_Bamba_Melee_Solar_Knife.jobString>Making a solar knife.</Make_Bamba_Melee_Solar_Knife.jobString>
+  <Make_Bamba_Melee_Solar_Gladius.label>make solar gladius</Make_Bamba_Melee_Solar_Gladius.label>
+  <Make_Bamba_Melee_Solar_Gladius.jobString>Making a solar gladius.</Make_Bamba_Melee_Solar_Gladius.jobString>
+  <Make_Bamba_Melee_Solar_Longsword.label>make solar longsword</Make_Bamba_Melee_Solar_Longsword.label>
+  <Make_Bamba_Melee_Solar_Longsword.jobString>Making a solar longsword.</Make_Bamba_Melee_Solar_Longsword.jobString>
+  <Make_Bamba_Melee_Solar_Hammer.label>make solar hammer</Make_Bamba_Melee_Solar_Hammer.label>
+  <Make_Bamba_Melee_Solar_Hammer.jobString>Making a solar hammer.</Make_Bamba_Melee_Solar_Hammer.jobString>
+  <Make_Bamba_Melee_Solar_Spear.label>make solar spear</Make_Bamba_Melee_Solar_Spear.label>
+  <Make_Bamba_Melee_Solar_Spear.jobString>Making a solar spear.</Make_Bamba_Melee_Solar_Spear.jobString>
+  <Make_Bamba_Melee_Solar_Polehammer.label>make solar polehammer</Make_Bamba_Melee_Solar_Polehammer.label>
+  <Make_Bamba_Melee_Solar_Polehammer.jobString>Making a solar polehammer.</Make_Bamba_Melee_Solar_Polehammer.jobString>
+  <Make_Bamba_Melee_Solar_Mace.label>make solar mace</Make_Bamba_Melee_Solar_Mace.label>
+  <Make_Bamba_Melee_Solar_Mace.jobString>Making a solar mace.</Make_Bamba_Melee_Solar_Mace.jobString>
+  <Make_Bamba_Melee_Solar_Baton.label>make solar baton</Make_Bamba_Melee_Solar_Baton.label>
+  <Make_Bamba_Melee_Solar_Baton.jobString>Making a solar baton.</Make_Bamba_Melee_Solar_Baton.jobString>
+  <Make_Bamba_Melee_Solar_Shield.label>make solar shield</Make_Bamba_Melee_Solar_Shield.label>
+  <Make_Bamba_Melee_Solar_Shield.jobString>Making a solar shield.</Make_Bamba_Melee_Solar_Shield.jobString>
+
+  <Make_Bamba_Melee_Quasar_Knife.label>make kwazaari knife</Make_Bamba_Melee_Quasar_Knife.label>
+  <Make_Bamba_Melee_Quasar_Knife.jobString>Making a kwazaari knife.</Make_Bamba_Melee_Quasar_Knife.jobString>
+  <Make_Bamba_Melee_Quasar_Gladius.label>make kwazaari gladius</Make_Bamba_Melee_Quasar_Gladius.label>
+  <Make_Bamba_Melee_Quasar_Gladius.jobString>Making a kwazaari gladius.</Make_Bamba_Melee_Quasar_Gladius.jobString>
+  <Make_Bamba_Melee_Quasar_Longsword.label>make kwazaari longsword</Make_Bamba_Melee_Quasar_Longsword.label>
+  <Make_Bamba_Melee_Quasar_Longsword.jobString>Making a kwazaari longsword.</Make_Bamba_Melee_Quasar_Longsword.jobString>
+  <Make_Bamba_Melee_Quasar_Hammer.label>make kwazaari hammer</Make_Bamba_Melee_Quasar_Hammer.label>
+  <Make_Bamba_Melee_Quasar_Hammer.jobString>Making a kwazaari hammer.</Make_Bamba_Melee_Quasar_Hammer.jobString>
+  <Make_Bamba_Melee_Quasar_Spear.label>make kwazaari spear</Make_Bamba_Melee_Quasar_Spear.label>
+  <Make_Bamba_Melee_Quasar_Spear.jobString>Making a kwazaari spear.</Make_Bamba_Melee_Quasar_Spear.jobString>
+  <Make_Bamba_Melee_Quasar_Polehammer.label>make kwazaari polehammer</Make_Bamba_Melee_Quasar_Polehammer.label>
+  <Make_Bamba_Melee_Quasar_Polehammer.jobString>Making a kwazaari polehammer.</Make_Bamba_Melee_Quasar_Polehammer.jobString>
+  <Make_Bamba_Melee_Quasar_Mace.label>make kwazaari mace</Make_Bamba_Melee_Quasar_Mace.label>
+  <Make_Bamba_Melee_Quasar_Mace.jobString>Making a kwazaari mace.</Make_Bamba_Melee_Quasar_Mace.jobString>
+  <Make_Bamba_Melee_Quasar_Baton.label>make kwazaari baton</Make_Bamba_Melee_Quasar_Baton.label>
+  <Make_Bamba_Melee_Quasar_Baton.jobString>Making a kwazaari baton.</Make_Bamba_Melee_Quasar_Baton.jobString>
+  <Make_Bamba_Melee_Quasar_Shield.label>make kwazaari shield</Make_Bamba_Melee_Quasar_Shield.label>
+  <Make_Bamba_Melee_Quasar_Shield.jobString>Making a kwazaari shield.</Make_Bamba_Melee_Quasar_Shield.jobString>
+
+  <Make_Bamba_Melee_Tenebral_Knife.label>make tenebral knife</Make_Bamba_Melee_Tenebral_Knife.label>
+  <Make_Bamba_Melee_Tenebral_Knife.jobString>Making a tenebral knife.</Make_Bamba_Melee_Tenebral_Knife.jobString>
+  <Make_Bamba_Melee_Tenebral_Gladius.label>make tenebral gladius</Make_Bamba_Melee_Tenebral_Gladius.label>
+  <Make_Bamba_Melee_Tenebral_Gladius.jobString>Making a tenebral gladius.</Make_Bamba_Melee_Tenebral_Gladius.jobString>
+  <Make_Bamba_Melee_Tenebral_Longsword.label>make tenebral longsword</Make_Bamba_Melee_Tenebral_Longsword.label>
+  <Make_Bamba_Melee_Tenebral_Longsword.jobString>Making a tenebral longsword.</Make_Bamba_Melee_Tenebral_Longsword.jobString>
+  <Make_Bamba_Melee_Tenebral_Hammer.label>make tenebral hammer</Make_Bamba_Melee_Tenebral_Hammer.label>
+  <Make_Bamba_Melee_Tenebral_Hammer.jobString>Making a tenebral hammer.</Make_Bamba_Melee_Tenebral_Hammer.jobString>
+  <Make_Bamba_Melee_Tenebral_Spear.label>make tenebral spear</Make_Bamba_Melee_Tenebral_Spear.label>
+  <Make_Bamba_Melee_Tenebral_Spear.jobString>Making a tenebral spear.</Make_Bamba_Melee_Tenebral_Spear.jobString>
+  <Make_Bamba_Melee_Tenebral_Polehammer.label>make tenebral polehammer</Make_Bamba_Melee_Tenebral_Polehammer.label>
+  <Make_Bamba_Melee_Tenebral_Polehammer.jobString>Making a tenebral polehammer.</Make_Bamba_Melee_Tenebral_Polehammer.jobString>
+  <Make_Bamba_Melee_Tenebral_Mace.label>make tenebral mace</Make_Bamba_Melee_Tenebral_Mace.label>
+  <Make_Bamba_Melee_Tenebral_Mace.jobString>Making a tenebral mace.</Make_Bamba_Melee_Tenebral_Mace.jobString>
+  <Make_Bamba_Melee_Tenebral_Baton.label>make tenebral baton</Make_Bamba_Melee_Tenebral_Baton.label>
+  <Make_Bamba_Melee_Tenebral_Baton.jobString>Making a tenebral baton.</Make_Bamba_Melee_Tenebral_Baton.jobString>
+</LanguageData>
