@@ -2,7 +2,10 @@
 summary: The research projects that unlock each tier, and how the order changes with Beyond Our Reach and Combat Extended.
 card: Bamba_Melee/Weapons/Spear_Industrial, Bamba_Melee/Weapons/Spear_Spacer, Bamba_Melee/Weapons/Spear_Solar
 ---
-Each tier is unlocked by one research project. They all sit in their own research tab, **All-Bamba Tech**, which the author's other "For All" mods share.
+Each tier is unlocked by one research project.
+
+- **Industrial, Spacer and Ultra** are in the **All-Bamba Tech** research tab, which the author's other "For All" mods share.
+- **<span class="t-solar">Solar</span> and <span class="t-kwazaari">Kwazaari</span>** are in Beyond Our Reach's own research tab, **beyond**, next to the rest of that mod's technology. They're researched like Beyond Our Reach's own Solar and Kwazaari projects: Solar at the solar fluid simulation array, Kwazaari at the sigma-class sagittary autoscope.
 
 The order depends on what else you have loaded:
 
@@ -11,6 +14,6 @@ The order depends on what else you have loaded:
 - **With Combat Extended, without Beyond Our Reach:** Industrial and Spacer only. Ultra gear can't be crafted, so its research is removed.
 - **With both:** Ultra research costs far more and has to be done at a hi-tech research bench with a multi-analyzer.
 
-The tables show the projects with Beyond Our Reach loaded. Flip the switch at the top to see the Combat Extended version.
+The tables show the projects with Beyond Our Reach loaded. Flip the switch at the top to see the Combat Extended version. The research buildings for Solar and Kwazaari come from Beyond Our Reach, so they aren't listed in the tables.
 
 {{ research_tables() }}

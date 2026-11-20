@@ -14,7 +14,7 @@ card: Bamba_Melee/Weapons/Gladius_Solar, Bamba_Melee/Weapons/Gladius_Quasar, Bam
 
 **<span class="t-tenebral">Tenebral</span>** weapons are made of tenebrite crystals and crystalline joints at the umbral fabricator, with no research of their own. Beyond Our Reach's dark archotech altar offers the whole set as well, shield included with Combat Extended, but only a pawn in tenebral psychosis can work it. The Tenebral shield comes only from the altar. The [Tenebral road](https://databobek.github.io/RimworldBeyondOurReach/tenebral-road.html) page on the BOR site explains how to get there.
 
-The stats, recipes and research for all three tiers are on the [Weapons](weapons.html), [Shields](shields.html) and [Research](research.html) pages, next to the other tiers.
+The Solar and Kwazaari melee research sits in Beyond Our Reach's research tab, not in All-Bamba Tech; see [Research](research.html). The stats, recipes and research for all three tiers are on the [Weapons](weapons.html), [Shields](shields.html) and [Research](research.html) pages, next to the other tiers.
 
 ## In Beyond Our Reach's factions
 
